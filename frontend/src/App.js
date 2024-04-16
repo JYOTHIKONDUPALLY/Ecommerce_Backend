@@ -15,7 +15,7 @@ import Thanks from "./components/Thanks";
 import ipConfig from "./ipConfig.json";
 
 export const config = {
-  endpoint: `https://ecommerce-backend-6.onrender.com//v1`,
+  endpoint: `https://ecommerce-backend-6.onrender.com/v1`,
 };
 
 export default function App(props) {
